@@ -1,4 +1,9 @@
 def add(a,b): 
     return a+b 
 
-print(add(1+2))
+
+def print_with_colour(text,colour): 
+    f(jv)
+    
+     
+print(add(1, 2))
